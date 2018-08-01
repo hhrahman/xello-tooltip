@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-tooltip',
+  selector: 'xt-tooltip',
   templateUrl: './tooltip.component.html',
   styleUrls: ['./tooltip.component.css']
 })
